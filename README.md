@@ -40,5 +40,25 @@ express服务器<br/>
 mysql数据库实现数据存储
 
 ## 项目预览
+主界面:<br/>
+![Image text](markDownImg/main.jpg)<br/>
+聊天室:<br/>
+![Image text](markDownImg/chatroom.jpg)<br/>
+帖子：<br/>
+![Image text](markDownImg/postmain.jpg)<br/>
+帖子详情:<br/>
+![Image text](markDownImg/postdetail.jpg)<br/>
+发送帖子:<br/>
+![Image text](markDownImg/postsend.jpg)<br/>
+频道成员信息:<br/>
+![Image text](markDownImg/channelmemberShow.jpg)<br/>
+管理频道(需要权限):<br/>
+![Image text](markDownImg/manageChannel.jpg)<br/>
+修改个人信息:<br/>
+![Image text](markDownImg/updateUserinf.jpg)<br/>
+搜索频道:<br/>
+![Image text](markDownImg/searchChannel.jpg)<br/>
+新建频道：<br/>
+![Image text](markDownImg/newChannel.jpg)<br/>
 
 
